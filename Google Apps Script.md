@@ -1,5 +1,5 @@
 『Google Apps Script クイックリファレンス』
-
+http://www.shuwasystem.co.jp/support/7980html/3675.html
 (p.12 par.1 l.)  
 
 ```gas:
